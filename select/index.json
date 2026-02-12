@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "宇宙戦艦ヤマト (2205 OP Ver.)",
+  "base_artist": "ささきいさお",
+  "createdAt": "2026-02-12T20:01:45.969329Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "宇宙戦艦ヤマト",
+      "artist": "ささきいさお",
+      "has_synced": false,
+      "path": "select/01_宇宙戦艦ヤマト_ささきいさお.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "宇宙戦艦ヤマト",
+      "artist": "Sasaki, Isao､Royal Knights",
+      "has_synced": false,
+      "path": "select/02_宇宙戦艦ヤマト_Sasaki,_Isao、Royal_Knights.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "宇宙戦艦ヤマト 2009",
+      "artist": "THE ALFEE",
+      "has_synced": true,
+      "path": "select/03_宇宙戦艦ヤマト_2009_THE_ALFEE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "宇宙戦艦ヤマト",
+      "artist": "Isao Sasaki､Royal Knights",
+      "has_synced": false,
+      "path": "select/04_宇宙戦艦ヤマト_Isao_Sasaki、Royal_Knights.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "宇宙戦艦ヤマト",
+      "artist": "Project Yamato 2199",
+      "has_synced": true,
+      "path": "select/05_宇宙戦艦ヤマト_Project_Yamato_2199.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "宇宙戦艦ヤマト",
+      "artist": "アニメタル",
+      "has_synced": true,
+      "path": "select/06_宇宙戦艦ヤマト_アニメタル.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "宇宙戦艦ヤマト",
+      "artist": "ANIMETAL",
+      "has_synced": true,
+      "path": "select/07_宇宙戦艦ヤマト_ANIMETAL.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "宇宙戦艦ヤマト 2009 - Rock Version",
+      "artist": "THE ALFEE",
+      "has_synced": true,
+      "path": "select/08_宇宙戦艦ヤマト_2009_-_Rock_Version_THE_ALFEE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宇宙戦艦ヤマト",
+      "artist": "ささきいさお",
+      "has_synced": false,
+      "path": "select/pl_01_宇宙戦艦ヤマト_ささきいさお.txt"
+    }
+  ]
+}
